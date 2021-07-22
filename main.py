@@ -157,7 +157,7 @@ def main():
 if __name__ == "__main__":
     try:
         logInfo(
-            "Started the Backend Server For Voice Chat Music Player | A SkTechHub Product")
+            "Started the Backend Server For Paattupetti Voice Chat Music Player")
         main()
     except Exception as ex:
         logException(f"Error in main start : {ex}", True)
